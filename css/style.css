@@ -1,9 +1,10 @@
-<｛class class="collection　green">
+.collection {
     color:green;
     font-family: "YuGothic","Yu Gothic","Meiryo","ヒラギノ角ゴ","sans-serif";
     font-size: 20px;
 }
-header {color:orange;
+header {
+    color:orange;
     height: 100px;
 }
 #side {
